@@ -1,0 +1,3 @@
+/Users/jinny/MSD6010/my6010FinalProject/build/CMakeFiles/testSFML.dir
+/Users/jinny/MSD6010/my6010FinalProject/build/CMakeFiles/edit_cache.dir
+/Users/jinny/MSD6010/my6010FinalProject/build/CMakeFiles/rebuild_cache.dir
