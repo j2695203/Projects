@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chat Room</title>
+    <link rel = stylesheet href="WebChat.css">
+</head>
+<body>
+
+    <h1>Chat Room</h1>
+
+    <div class="userInput">
+        <label>User Name:</label>
+        <textarea id="userName"></textarea>
+        <label>Room Name:</label>
+        <textarea id="roomName"></textarea>
+        <button id="leave">Leave Room</button>
+    </div>
+
+    <div id="showWindows">
+        <div id="showPpl">
+            <p>People in the room: </p>
+        </div>
+        <div id="showMsg">
+            <p>Type in a User Name and Room Name (then press Enter) to join the chat...</p>
+        </div>
+    </div>
+
+    <div class="userInput">
+        <label>Message:</label>
+        <textarea id="msgInput"></textarea>
+    </div>
+    <script src="WebChat.js"></script>
+</body>
+</html>

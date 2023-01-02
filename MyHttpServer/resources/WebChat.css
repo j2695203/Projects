@@ -1,0 +1,55 @@
+*{
+    font-family: "Chalkboard";
+    position: relative;
+    /*text-align: center;*/
+}
+h1{
+    text-align: center;
+}
+
+.userInput{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+textarea{
+    text-align: left;
+    height: 14px;
+    resize: none;
+    overflow: hidden;
+}
+
+#showWindows{
+    border: solid 2px #333333;
+    display: flex;
+    flex-direction: row;
+    background-color: lightsteelblue;
+}
+
+#showPpl, #showMsg{
+    border: solid 1px #AAAAAA;
+    background-color: #EEEEEE;
+    height: 300px;
+    overflow: auto;
+    text-align: left;
+    line-height: 110%;
+    margin: 10px;
+    padding: 5px;
+
+}
+p{
+    margin: 5px;
+}
+
+#showPpl{
+    width: 30%;
+}
+
+#showMsg{
+    width: 70%;
+}
+
+.msgInput{
+    text-align: center;
+}

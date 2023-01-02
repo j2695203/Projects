@@ -1,0 +1,16 @@
+
+body{
+  background-color: #646B79;
+  font-family: "Andale Mono";
+  padding: 100px;
+}
+
+p{
+  color: #FFF00D; 
+}
+
+img{ 
+  width: 300px;
+  border-radius: 4px;
+  padding: 4px;
+ }
