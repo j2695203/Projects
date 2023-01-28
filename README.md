@@ -1,2 +1,2 @@
 # Projects
-Jinny's side projects
+These are some of my side projects.
