@@ -1,8 +1,14 @@
 # Projects
-These are some of my side projects.(to be continually updated)
+These are some of my side projects. (in chronological order, to be continually updated)
+
+📁 **DNSresolver** - (Feb, 2023)
+>*Java*
 
 📁 **AndroidChatClient** - (Nov, 2022)
 >*Java, JavaScript, HTML, Web Socket*
+
+📁 **Synthesizer** - (Oct, 2022)
+>*Java*
 
 📁 **DinosaurGame** - (Sep, 2022)
 >*C++, SFML*
