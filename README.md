@@ -1,7 +1,10 @@
 # Projects
 These are some of my side projects. (in chronological order, to be continually updated)
 
-📁 **DNSresolver** - (Feb, 2023)
+📁 **UnixShell** - (Mar, 2023)
+>*C++*
+
+📁 **DNSresolver** - (Jan, 2023)
 >*Java*
 
 📁 **AndroidChatClient** - (Nov, 2022)
